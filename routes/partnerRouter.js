@@ -1,4 +1,3 @@
-const { response, application } = require('express');
 const express = require('express');
 const Partner = require('../models/partner');
 
